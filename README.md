@@ -9,3 +9,4 @@
 
  - Bot and server icon created by Stuupidfish (Or Stuuupidfish? Plz tell us, stuu(u)pidfish) (@Stuuupidfish#7450)
  - Scythe Weapons/Robe Icons by FreePik via flaticon.com
+ - Based of of Scythe by Neal Shusterman
