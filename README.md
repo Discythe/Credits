@@ -2,7 +2,7 @@
 
 ## Creators:
 
- - Started by Cole (@Cole#8888) and SqueezTyrant (@SqueezTyrant#9986)
+ - Started by @Cole (@Cole#8888) and @SqueezTyrant (@SqueezTyrant#9986)
  - Developed by Cole and SqueezTyrant
 
 ## Icons and stuff
