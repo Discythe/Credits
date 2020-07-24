@@ -2,8 +2,8 @@
 
 ## Creators:
 
- - Started by @Cole (@Cole#8888) and @SqueezTyrant (@SqueezTyrant#9986)
- - Developed by Cole and SqueezTyrant
+ - Started by @Cole (@Cole#8888) and @NaN(0)Bot (@NaN(0)Bot#9986)
+ - Developed by Cole and NaN(0)Bot
 
 ## Icons and stuff
 
